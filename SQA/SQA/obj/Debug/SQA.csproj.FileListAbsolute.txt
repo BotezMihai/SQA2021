@@ -1,0 +1,36 @@
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\chromedriver.exe
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\SQA.dll
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\SQA.pdb
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\WebDriver.dll
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mihai\source\repos\SQA\SQA\bin\Debug\WebDriver.xml
+C:\Users\Mihai\source\repos\SQA\SQA\obj\Debug\SQA.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\source\repos\SQA\SQA\obj\Debug\SQA.csproj.CopyComplete
+C:\Users\Mihai\source\repos\SQA\SQA\obj\Debug\SQA.dll
+C:\Users\Mihai\source\repos\SQA\SQA\obj\Debug\SQA.pdb
+C:\Users\Mihai\source\repos\SQA\SQA\obj\Debug\SQA.csprojAssemblyReference.cache
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\chromedriver.exe
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\SQA.dll
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\SQA.pdb
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\WebDriver.dll
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\bin\Debug\WebDriver.xml
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\obj\Debug\SQA.csprojAssemblyReference.cache
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\obj\Debug\SQA.csproj.CoreCompileInputs.cache
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\obj\Debug\SQA.csproj.CopyComplete
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\obj\Debug\SQA.dll
+D:\Master\Year1Sem2\SQA\seminar\Proiect Seminar\SQA2021\SQA\SQA\obj\Debug\SQA.pdb
